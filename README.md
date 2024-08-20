@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hey Everyone 👋, I'm Chandan Kumar</h1>
 <div align="center"> <img src="https://github.com/onechandan"> </div>
 <h3 align="center">A passionate DevOps Engineer From India. I work in Corporate IT Sector and in my free time I make YouTube videos at https://www.youtube.com/@onechandan</h3>
