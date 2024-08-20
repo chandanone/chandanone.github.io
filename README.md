@@ -1,13 +1,13 @@
 ## Hi there 👋
 
 <h1 align="center">Hey Everyone 👋, I'm Chandan Kumar</h1>
-<div align="center"> <img src="https://github.com/chandanone"> </div>
-<h3 align="center">A passionate DevOps Engineer From India. I work in Corporate IT Sector and in my free time I make YouTube videos at https://www.youtube.com/@chandanone</h3>
+<div align="center"> <img src="https://github.com/onechandan"> </div>
+<h3 align="center">A passionate DevOps Engineer From India. I work in Corporate IT Sector and in my free time I make YouTube videos at https://www.youtube.com/@onechandan</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandanone&label=Profile%20views&color=0e75b6&style=flat" alt="chandanone" /> </p>
 
-- 🔭 I’m currently working on [Corporate DevOps Security Tools | DevSecOps](https://www.youtube.com/chandanone)
+- 🔭 I’m currently working on [Corporate Microservices DevSecOps](https://www.youtube.com/onechandan)
 
 - 🌱 I’m currently learning **DevSecOps & Cloud Devops**
 
@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/chandan-kumar-891545229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandanone" height="30" width="40" /></a>
 <a href="https://instagram.com/conciouschandan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chandan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/chandanone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chandanone" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/onechandan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="onechandan" height="30" width="40" /></a>
   
 </p>
 
@@ -38,18 +38,3 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=chandanone&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
-
-<!--
-**chandanone/chandanone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
