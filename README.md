@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandanone&label=Profile%20views&color=0e75b6&style=flat" alt="chandanone" /> </p>
 
-- 🔭 I’m currently working on [Corporate Microservices DevSecOps](https://www.youtube.com/onechandan)
+- 🔭 I’m currently working on [Corporate Microservices DevSecOps](https://www.youtube.com/@onechandan)
 
 - 🌱 I’m currently learning **DevSecOps & Cloud Devops**
 
